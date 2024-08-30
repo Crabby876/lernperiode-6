@@ -25,7 +25,7 @@
 
 - [x] Modul 320 Aufgabe 4207
 - [x] Modul 320 Aufgabe 4209 (starten)
-- [ ] Neuer Projekt zum üben von OOP erstellen
+- [x] Neuer Projekt zum üben von OOP erstellen
 - [ ] Planen wie ich ein Schack spiel umsetzen könnte.
 
 ✍️ Heute habe ich... (50-100 Wörter)
