@@ -23,10 +23,10 @@
 
 ## 30.8
 
+- [ ] Modul 320 Aufgabe 4207
+- [ ] Modul 320 Aufgabe 4209 (starten)
 - [ ] Neuer Projekt zum üben von OOP erstellen (Klassen zimmer und Kameraden in OOP)
 - [ ] Alle Klassen erstellen
-- [ ] Alle Atribute erstellen
-- [ ] Alle Objekte erstellen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
