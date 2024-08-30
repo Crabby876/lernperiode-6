@@ -26,8 +26,13 @@
 - [x] Modul 320 Aufgabe 4207
 - [x] Modul 320 Aufgabe 4209 (starten)
 - [x] Neuer Projekt zum üben von OOP erstellen
-- [ ] Planen wie ich ein Schack spiel umsetzen könnte.
+- [ ] Planen wie ich ein Schach spiel umsetzen könnte.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich Zwei Modul 320 Aufgaben gelöst  und daraufhin habe ich für 45min OOP geübt und habe alles wo wir bisher in OOP gelernthaben repetiert. Danach habe ich geplat wie ich ein Schach spiel programmieren könnte mit OOP und ob es überhaupt mögilch wäre und hab eine Lösung gefunden für das Mesite. Ich werde mal eine Vereinfachte Version machen und vlt immer verbessern. (93 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 06.09
+
+- [x] Lösung für funktionierende Schachbrett-Felder finden.
+- [x] Schachbrett mit 9 Felder erstellen und Felder in Array speichern.
+- [x] Figur Klasse erstellen.
+- [ ] Erste Figur erstellen und Bewegung programieren.
