@@ -33,6 +33,6 @@
 ## 06.09
 
 - [ ] Lösung für funktionierende Schachbrett-Felder finden.
-- [ ] Schachbrett mit 9 Felder erstellen und Felder in Array speichern.
+- [ ] Schachbrett mit 9 Felder erstellen und benennen.
 - [ ] Figur Klasse erstellen.
 - [ ] Erste Figur erstellen und Bewegung programieren.
