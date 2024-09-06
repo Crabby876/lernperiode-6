@@ -32,7 +32,16 @@
 
 ## 06.09
 
-- [ ] Lösung für funktionierende Schachbrett-Felder finden.
-- [ ] Schachbrett mit 9 Felder erstellen und benennen.
-- [ ] Figur Klasse erstellen.
+- [x] Lösung für funktionierende Schachbrett-Felder finden.
+- [x] Schachbrett mit 9 Felder erstellen und benennen.
+- [x] Figur Klasse erstellen.
 - [ ] Erste Figur erstellen und Bewegung programieren.
+
+Heute habe ich meinen Schach spie Angefangen. Ich habe mir zu erstüberlegt wie ich das Brett darstelle könnte mit anklickbaren Feldern. Das habe ich dann mit Buttos gemacht und ich habe alle Buttons mit Zahlen (x, y) Kordinaten beschriftet. Danach habe ich die Klasse Figur erstellt und habe angefangen eine Funkton zu schreiben welches Movement heisst und die Figuren je nach Art bewegen kann.
+
+## 13.09
+
+- [x] Funkton Movement für einen Pawn fertig machen
+- [x] Pawn bewegung testen
+- [x] Andere Figuren hinzenfügen
+- [ ] neue Bewegungen für Arten erstellen.
