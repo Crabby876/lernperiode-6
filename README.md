@@ -41,7 +41,7 @@ Heute habe ich meinen Schach spie Angefangen. Ich habe mir zu erstüberlegt wie 
 
 ## 13.09
 
-- [x] Funkton Movement für einen Pawn fertig machen
-- [x] Pawn bewegung testen
-- [x] Andere Figuren hinzenfügen
+- [ ] Funkton Movement für einen Pawn fertig machen
+- [ ] Pawn bewegung testen
+- [ ] Andere Figuren hinzenfügen
 - [ ] neue Bewegungen für Arten erstellen.
