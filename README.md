@@ -41,7 +41,8 @@ Heute habe ich meinen Schach spie Angefangen. Ich habe mir zu erstüberlegt wie 
 
 ## 13.09
 
+- [ ] Collections besser anschauen
+- [ ] LA_4210
+- [ ] LA_4211
 - [ ] Funkton Movement für einen Pawn fertig machen
-- [ ] Pawn bewegung testen
-- [ ] Andere Figuren hinzenfügen
-- [ ] neue Bewegungen für Arten erstellen.
+
