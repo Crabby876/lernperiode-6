@@ -41,8 +41,18 @@ Heute habe ich meinen Schach spie Angefangen. Ich habe mir zu erstüberlegt wie 
 
 ## 13.09
 
-- [ ] Collections besser anschauen
-- [ ] LA_4210
-- [ ] LA_4211
-- [ ] Funkton Movement für einen Pawn fertig machen
+- [x] Collections besser anschauen
+- [x] LA_4210
+- [x] LA_4211
+- [x] Vererbungen in ein Schach Projekt implementieren
+
+Heute habe ich das neu gelernte Wissen über OOP (Collections, Lists und Vererbungen) weiter geübt und auch zwei Modul Afträage darüber gelöst. Danach habe ich versucht das neu erlernte Wissen in meinen Schach Projekt zu Implementieren und habe eine Chlid Klass von Figur erstellt nähmlich Pawn (Schachfigur). (76 Wörter)
+
+## 20.09
+
+- [ ] Lernen wie man Buttons oder Checkboxes mit einem Objekt verknüpft
+- [ ] Move Methode vertigstellen
+- [ ] Move Testen und Bugs aufheben
+- [ ] Weitere Childklassen hinzu fügen
+      
 
