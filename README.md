@@ -50,9 +50,9 @@ Heute habe ich das neu gelernte Wissen über OOP (Collections, Lists und Vererbu
 
 ## 20.09
 
-- [ ] Lernen wie man Buttons oder Checkboxes mit einem Objekt verknüpft
-- [ ] Move Methode vertigstellen
-- [ ] Move Testen und Bugs aufheben
-- [ ] Weitere Childklassen hinzu fügen
+- [ ] LB 322 Personas erstelen
+- [ ] LB 322 Szenarien erstellen
+- [ ] LB 322 User storys erstellen
+- [ ] LB 322 LOWFI-Prototypen beginnen
       
 
