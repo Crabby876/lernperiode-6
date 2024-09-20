@@ -50,9 +50,18 @@ Heute habe ich das neu gelernte Wissen über OOP (Collections, Lists und Vererbu
 
 ## 20.09
 
-- [ ] LB 322 Personas erstelen
-- [ ] LB 322 Szenarien erstellen
+- [x] LB 322 Personas erstelen
+- [x] LB 322 Planung machen
 - [ ] LB 322 User storys erstellen
 - [ ] LB 322 LOWFI-Prototypen beginnen
+
+Heute habe ich zusammen mit Fynn unser LB vom Modul 322 weiter geführt. Als erstes haben wir die Ziele für unsere Webseite erstelt. Danach haben wir uns überlegt was für Personen auf unser Webseite gehen würden und haben diesen Personen sehr genau beschrieben mit alle Hobbies und allem um die Erwartungen gut einzuschätzen.
+
+
+## 27.09
+
+- [ ] Lernen wie man Buttons mit einem Objekt verknüpft
+- [ ] Move Methode vertigstellen
+- [ ] Move teste und Bugs aufheben.
       
 
