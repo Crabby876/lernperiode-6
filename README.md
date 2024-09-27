@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/56862e29-7136-492b-a3d2-0b7deed1773f)
 
-In dieser Lern-Periode habe ich einen Schach Projekt gestartet der leider noch nicht fertig ist. Doch was ich fertigstellen konnte war mein LRC_Spiel bzw OBA vom Modul 320.
+In dieser Lern-Periode habe ich ein Schach Projekt gestartet, der leider noch nicht fertig ist. Doch was ich fertigstellen konnte war mein LRC_Spiel bzw. OBA vom Modul 320.
 
 12.8 bis 27.9.2024
 
@@ -70,6 +70,10 @@ Heute habe ich zusammen mit Fynn unser LB vom Modul 322 weiter geführt. Als ers
 - [x] OBA 320 alle Propertys und Konstruktoren programmieren
 - [x] OBA 320 alle Methoden programmieren
 
+## Reflexion
 
+In dieser LP habe ich mich vor allem mit OOP(in C#) befasst. Am Anfang habe ich noch die Basics von OOP gelernt und geübt. Danach habe ich meinem eigenen Projekt gestartet, nämlich ein vereinfachtes Schachspiel. Jedoch sind beim Erstellen sehr viel Probleme aufgetaucht, weil ich nicht wusste, wie ich OOP mit WinForms zusammen verwenden könnte (z. B. Figuren als Objekte der Klassen Figur zu definieren). Da habe ich bemerkt, dass ich noch ein wenig das OOP üben muss und habe angefangen den OOP zu programmieren. Es lief alles gut, doch als ich endlich alle Klassen erstellt und programmiert hatte und den Programm ausführen konnte, stellte ich fest, dass es einen Bug hatte. Ich konnte den Bug noch nicht finden, jedoch werde ich es später noch suchen.
+
+Im Unterricht ging es in dieser LP ziemlich gut, jedoch finde ich das ich die Zeit besser nutzen könnte. Ich habe in dieser LP viele Aufgaben von Modulen gelöst, da wir einen herausfordernden Modul am Bearbeiten sind. Sobald wir das Modul 320 abgeschlossen haben möchte ich im LP mehr an meinen eigenen Projekten arbeiten. Das war eigentlich das einzige, was ich etwas schade fand, jedoch habe ich dadurch mein Wissen erweitert und kann jetzt OOP.
       
 
