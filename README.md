@@ -60,8 +60,8 @@ Heute habe ich zusammen mit Fynn unser LB vom Modul 322 weiter geführt. Als ers
 
 ## 27.09
 
-- [ ] Lernen wie man Buttons mit einem Objekt verknüpft
-- [ ] Move Methode vertigstellen
-- [ ] Move teste und Bugs aufheben.
+- [ ] Alle Classen der OBA von Modul 320 erstellen nach UML
+- [ ] OBA 320 alle Propertys und Konstruktoren programmieren
+- [ ] OBA 320 alle Methoden programmieren
       
 
