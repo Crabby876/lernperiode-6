@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/56862e29-7136-492b-a3d2-0b7deed1773f)
 
+In dieser Lern-Periode habe ich einen Schach Projekt gestartet der leider noch nicht fertig ist. Doch was ich fertigstellen konnte war mein LRC_Spiel bzw OBA vom Modul 320.
 
 12.8 bis 27.9.2024
 
