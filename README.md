@@ -1,5 +1,10 @@
 # lernperiode-6
 
+## Beschreibung
+
+![image](https://github.com/user-attachments/assets/56862e29-7136-492b-a3d2-0b7deed1773f)
+
+
 12.8 bis 27.9.2024
 
 ## Grob-Planung
@@ -60,8 +65,10 @@ Heute habe ich zusammen mit Fynn unser LB vom Modul 322 weiter geführt. Als ers
 
 ## 27.09
 
-- [ ] Alle Classen der OBA von Modul 320 erstellen nach UML
-- [ ] OBA 320 alle Propertys und Konstruktoren programmieren
-- [ ] OBA 320 alle Methoden programmieren
+- [x] Alle Classen der OBA von Modul 320 erstellen nach UML
+- [x] OBA 320 alle Propertys und Konstruktoren programmieren
+- [x] OBA 320 alle Methoden programmieren
+
+
       
 
